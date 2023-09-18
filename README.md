@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Lowe</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 
- 🌱 I’m currently learning **React and JavaScript**
+ 👨🏾‍💻 I have learned Ruby, JavaScript, Ruby on Rails, HTML and SCSS
 
- 📫 How to reach me **mrdavidhlowe@gmail.com**
+ 🌱 I’m currently learning **React**
 
- ⚡ Fun fact **I am also a trainee pilot ✈**
+ 📫 Reach me at **mrdavidhlowe@gmail.com**
+
+ ⚡ Fun fact **I am also a trainee pilot ** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
