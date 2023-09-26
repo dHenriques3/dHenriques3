@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm David Lowe</h1>
-<h3 align="center">A passionate full stack developer from London</h3>
+<h1 align="center">Hi👋, I'm David.</h1>
+<h3 align="center">A Passionate Full Stack Developer From London</h3>
 
- 👨🏾‍💻 I have learned Ruby, JavaScript, Ruby on Rails, HTML and SCSS
+ 👨🏾‍💻 I have learned Ruby, Ruby on Rails, JavaScript, HTML and CSS
 
  🌱 I’m currently learning **React**
 
@@ -9,6 +9,15 @@
 
  ⚡ Fun fact **I am also a trainee pilot** 
 
+ <h3>
+  A little about me:
+ </h3>
+
+Hello, I’m David.
+
+
+This past summer, I finished a 9-week intensive bootcamp at Le Wagon where I learned to build web apps using Ruby on rails, HTML, CSS, and JavaScript.
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/david-h-lowe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/david-h-lowe/" height="30" width="40" /></a>
