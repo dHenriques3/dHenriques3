@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm David.</h1>
 <h3 align="center">A Passionate Full Stack Developer From London</h3>
 
- 👨🏾‍💻 I have learned Ruby, Ruby on Rails, JavaScript, HTML and CSS
+ 👨🏾‍💻 I have learned **Ruby, Ruby on Rails, JavaScript, HTML and CSS**
 
  🌱 I’m currently learning **React**
 
