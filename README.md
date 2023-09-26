@@ -16,7 +16,7 @@
 Hello, I’m David.
 
 
-This past summer, I finished a 9-week intensive bootcamp at Le Wagon where I learned to build web apps using Ruby on rails, HTML, CSS, and JavaScript.
+This summer, I graduated from Le Wagon, a 9-week intensive bootcamp where I learned to build web apps using Ruby on Rails, HTML, CSS, and JavaScript.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
